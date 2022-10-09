@@ -9,7 +9,13 @@
   <a href="https://www.linkedin.com/in/mrrajatsingh" target="_blank">
   <img alt="Rajat Singh | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<p align="right">
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</p>
 </p>
 
 
@@ -17,6 +23,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mrsinghrajat&color=blueviolet&label=Profile+Views&style=plastic)
 <br />
+
 
 
 Hey there 👋,
@@ -27,8 +34,15 @@ I am a ServiceNow Developer Mainly About Custom Apps / integrations / Designing 
 
 ---
 <p align="center" marging-top="30">
-<img width="900px" src="https://github-readme-stats.vercel.app/api?username=mrsinghrajat&show_icons=true&theme=gradient&hide_border=true" />
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsinghrajat&layout=compact)](https://github.com/mrsinghrajat/github-readme-stats)
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=mrsinghrajat&show_icons=true&theme=gradient&hide_border=true" />
+ <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsinghrajat&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 
 </p>
+
+---
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsinghrajat&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
+</p>
+
+---
+<a href="http://extinctsion.c1.biz/"><img alt="Aditya Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mrsinghrajat&bg_color=1F222E&color=ffffff&line=f08c2d&point=444040&area=true&hide_border=true" /></a>
