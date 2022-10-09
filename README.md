@@ -1,6 +1,6 @@
 
 <p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="[https://waylonwalker.com/latest-story.png](https://github.com/MRSinghRajat/MRSinghRajat/blob/main/Asstes/gitBanner.png)"></a>
+  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://github.com/MRSinghRajat/MRSinghRajat/blob/main/Asstes/gitBanner.png"></a>
 </p>
 
 <p align='center'>
