@@ -34,8 +34,8 @@ I am a ServiceNow Developer Mainly About Custom Apps / integrations / Designing 
 
 ---
 <p align="center" marging-top="30">
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=mrsinghrajat&show_icons=true&theme=gradient&hide_border=true" />
- <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsinghrajat&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=mrsinghrajat&show_icons=true&theme=gradient&hide_border=true" />
+ <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=mrsinghrajat&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 
 </p>
 
